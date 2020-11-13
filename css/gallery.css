@@ -34,18 +34,21 @@ body{
   font-size: 23px;
   font-weight: bold;
 }
-/*  */
+
 
 div{
   box-sizing: border-box;
   border:1px solid #fffbbf;
-  width: 1850px;
+  width: 98%;
+  height: auto;
   margin: 1%;
   padding: 1%;
   transition: 1.75s ease-in;
 }
 
 .video {
+  width: 98%;
+  height: auto;
   display: block;
   border: 10px grey;
   text-align: center;
